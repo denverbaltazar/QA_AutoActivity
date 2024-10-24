@@ -1,0 +1,8 @@
+[October 24, 2024 3:48 PM] - Test Started: Heroku App Login User_TC002
+[October 24, 2024 3:48 PM] - Started Function: setValue
+[October 24, 2024 3:48 PM] - Started Function: setValue
+[October 24, 2024 3:48 PM] - Completed Function: setValues
+[October 24, 2024 3:48 PM] - Completed Function: setValues
+[October 24, 2024 3:48 PM] - Started Function: click Object
+[October 24, 2024 3:48 PM] - Completed Function: click Object - Successfully clicked [//button[@id="submit"]]
+[October 24, 2024 3:48 PM] - Test Completed: Heroku App Login User_TC002

@@ -1,0 +1,36 @@
+[October 24, 2024 3:48 PM] - Test Started: Heroku App Export Contacts on File_TC006
+[October 24, 2024 3:48 PM] - Started Function: setValue
+[October 24, 2024 3:48 PM] - Completed Function: setValues
+[October 24, 2024 3:48 PM] - Started Function: setValue
+[October 24, 2024 3:48 PM] - Completed Function: setValues
+[October 24, 2024 3:48 PM] - Started Function: click Object
+[October 24, 2024 3:48 PM] - Completed Function: click Object - Successfully clicked [//button[@id="submit"]]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[1]]  Text [Name]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[2]]  Text [test2 test2]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[2]]  Text [Birthdate]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[3]]  Text [2024-06-11]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[3]]  Text [Email]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[4]]  Text [test2@test.com]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[4]]  Text [Phone]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[5]]  Text [091234567892]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[5]]  Text [Address]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[6]]  Text [street2 street2]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[6]]  Text [City, State/Province, Postal Code]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[7]]  Text [test2 City test2 Province 3002]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//thead//tr//th[7]]  Text [Country]
+[October 24, 2024 3:48 PM] - Started Function: getObjText
+[October 24, 2024 3:48 PM] - Completed Function: getObjText - Object [//table/tr[1]/td[8]]  Text [Philippines]
+[October 24, 2024 3:48 PM] - Test Completed: Heroku App Export Contacts on File_TC006
